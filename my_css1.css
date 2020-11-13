@@ -1,0 +1,47 @@
+* {
+	margin: 5;
+	padding: 2;
+	box-sizing: border-box;
+}
+
+
+body {
+    background-image: url("<ip>/project3/sunflower.jpg");
+	background-repeat:repeat;
+	background-attachment: fixed;
+	background-size:cover; 
+	background-color: #cccccc;
+	color: black;
+
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+h2 {
+	font-size: 1.875em; 
+	text-align-last: center;
+}
+
+h3 {
+	text-align-last: center;
+}
+
+h4 {
+	text-align-last: center;
+}
+
+p {
+	font-size: 0.8em; 
+}
+
+li{
+	font-size: 1.25em; 
+}
+
+.tab {
+	font-size: 0.75em;
+	margin-left: 2.5em
+}
+
